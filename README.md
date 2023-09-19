@@ -10,7 +10,8 @@ It identifies the top matching job description for each resume.
 ## Files
 resume_job_matching.py: Python script containing the code for resume matching.   
 Resume.csv.zip: ZIP - CSV file containing the resume data.      
-README.md: This file, providing an overview of the script.     
+README.md: This file, providing an overview of the script.  
+resume_matcher.docx: documentation of the code
 
 ## Dependencies
 os: Library for interacting with the operating system.   
